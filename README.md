@@ -11,4 +11,4 @@ We are a group of passionate creators—engineers, artists, and dreamers.
 
 - **GengChaCha**: An online encyclopedia of internet memes, expected to launch in early July 2025.  
 
-💻 [GitHub](https://github.com/Deepix-Org) | 🏡 [Website](https://deepix.cn)
+💻 [GitHub](https://github.com/Deepix-Org) | 🏡 [Website](http://deepix.cn)
