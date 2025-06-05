@@ -1,16 +1,14 @@
-## Hi there 👋
+# ✨ Deepix-Org —— 代码与梦想的交汇
 
-<!--
-**Deepix-Org/Deepix-Org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+在这个充满变革的时代，我们用代码书写未来。  
+我们是一群热爱创造的工程师、艺术家和梦想家。  
 
-Here are some ideas to get you started:
+- **代码，是我们的画笔** 🎨  
+- **开源，是我们的信仰** 🔓  
+- **技术，是我们的桥梁** 🌉  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📃我们正在做的项目
+
+- **梗查查**：网络热梗百科，预计2025年7月初上线
+
+💻 [GitHub](https://github.com/Deepix-Org) | 🏡 [官网](https://deepix.cn)
