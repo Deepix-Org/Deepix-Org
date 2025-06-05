@@ -1,14 +1,14 @@
-# ✨ Deepix-Org —— 代码与梦想的交汇
+# ✨ Deepix-Org —— Where Code Meets Dreams
 
-在这个充满变革的时代，我们用代码书写未来。  
-我们是一群热爱创造的工程师、艺术家和梦想家。  
+In this era of transformation, we write the future with code.  
+We are a group of passionate creators—engineers, artists, and dreamers.  
 
-- **代码，是我们的画笔** 🎨  
-- **开源，是我们的信仰** 🔓  
-- **技术，是我们的桥梁** 🌉  
+- **Code is our canvas** 🎨  
+- **Open-source is our belief** 🔓  
+- **Technology is our bridge** 🌉  
 
-📃我们正在做的项目
+📃 Projects in Progress  
 
-- **梗查查**：网络热梗百科，预计2025年7月初上线
+- **GengChaCha**: An online encyclopedia of internet memes, expected to launch in early July 2025.  
 
-💻 [GitHub](https://github.com/Deepix-Org) | 🏡 [官网](https://deepix.cn)
+💻 [GitHub](https://github.com/Deepix-Org) | 🏡 [Website](https://deepix.cn)
